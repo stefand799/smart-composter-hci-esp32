@@ -6,7 +6,7 @@ Steps
     SSID = network name (or hotspot) <br>
     SSID_PASSWORD = network password (or hotspot) [leave blank if there is none] <br>
     SERVER_HOST = public IPv4 of the device server is running <br>
-    SERVER_PORT = port of the server (default is 8000) <br>
+    SERVER_PORT = port of the server (default is 8000 for http) <br>
 
 2. Deploy the code on ESP32 board
 
